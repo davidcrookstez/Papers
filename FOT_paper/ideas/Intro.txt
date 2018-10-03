@@ -1,0 +1,11 @@
+In order to secure investment, Wave Energy Converter (WEC) developers need to demonstrante, with a high degree of confidence, that they understand and can estimate the performance of their devices.  
+Few developers have reached the stage of deploying their technologies and therefore, estimates of WEC behaviour and knowledge on their characteristics are drawn from model testing and numerical models and their development.
+
+Scale physical modelling is a well established approach in the maritime industries, with both vessels and coastal structures being modelled (Hughes, X).  
+Numerical models have also been used for decades to estimate the behaviour of marine technologies (Newman, X).  
+Numerous numerical model types exist for different purposes, ranging from linear analytical models to fully nonlinear Computational Fluid Dynamic (CFD) models; each type of numerical model has its benefits and drawbacks (Folley et al, 2012).
+
+In this study, experimental wave tank tests were used to validate the radiation torque component of an Oscillating Wave Surge Converter's (OWSC's) time domain numerical model.
+Conventionally, time domain numerical models contain the coefficients of linear hydrodynamic frequency domain numerical models but have structures that allow for the inclusion of nonlinear components.
+The nonlinear torques, or forces, are often included as terms which represent the drag that a body experiences as it moves through water (expressed as Morrison's force (Morrison et al, x) or the equivalent torque) or the resistance from a Power Take-Off (PTO).
+The PTO can be represented accurately if its characteristics are well known, however the drag torque term is often calibrated in order to reduce the error of the model's performance.
